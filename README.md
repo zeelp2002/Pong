@@ -11,4 +11,5 @@ Player 2: 'A' key to go up
 The objective it not let the ball leave the screen on the left and right sides
 Player that reaches 7 points first is the winner
           
- 
+Author: Zeel P 
+
