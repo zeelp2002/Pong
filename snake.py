@@ -96,6 +96,9 @@ class game():
         
         self.snake = snake(self.display, self.gridsize)
         self.apple = apple(self.screenwidth, self.screenheight, self.gridsize)
+
+        icon = pygame.image.load("images/snake.png")
+        pygame.display.set_icon(icon)
         
     def game_loop(self):
         while self.running == True:

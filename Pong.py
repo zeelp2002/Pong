@@ -155,6 +155,9 @@ class Pong:
         leftMoveUp = False
         leftMoveDown = False
 
+        icon = pygame.image.load("images/pong.png")
+        pygame.display.set_icon(icon)
+
 
                 #Main Program Loop
         while running:
