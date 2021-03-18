@@ -1,7 +1,7 @@
 # Pong
 A clone of the classic 1972 game Pong
 
-![alt text](https://github.com/zeelp741/Game-Collection/blob/images/pong_game_image.png?raw=true)
+![alt text](https://github.com/zeelp741/Game-Collection/blob/pong_game_image.png?raw=true)
 
 ![alt text](https://github.com/[username]/[reponame]/blob/images/pong_game_image.png?raw=true)
 ## Instructions
