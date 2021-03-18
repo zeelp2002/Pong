@@ -25,5 +25,5 @@ Player that reaches 7 points first is the winner
 - As the snake finds food, eats it and therby grows laeger
 - The game ends when the snake either moves off the screen or moves into itself
 
-Goal 
+## Goal 
 - Make the snake as large as possible, score will be displayed on the top-left side of window 
